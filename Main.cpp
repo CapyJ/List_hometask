@@ -14,8 +14,8 @@ int main() {
 	l1.Print();
 	cout<<l1.GetSize()<<endl;
 
-	list<int> i12;
-	i12.pop_back();
+	//list<int> i12;
+	//i12.pop_back();
 
 	/*list<int> l2;
 	l2.push_back(19);
